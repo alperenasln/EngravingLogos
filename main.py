@@ -1,7 +1,5 @@
 """
 Alperen ASLAN
-27226264696
-CMPE 326 Homework 1
 """
 # Here is the simple board
 import sys
